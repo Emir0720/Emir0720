@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Emir</h1>
 <h3 align="center">Computer Engineering Student</h3>
 <br>🌱 I’m currently learning React<br>
+<br> How to reach me aliemir_sahin@outlook.com <br>
 
 
 ## 🌐 Socials:
